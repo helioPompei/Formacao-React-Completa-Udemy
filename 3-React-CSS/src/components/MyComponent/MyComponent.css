@@ -1,0 +1,8 @@
+h1 {
+    color: yellow;
+}
+
+.MyComponent p {
+    color: blue;
+    background-color: black;
+}
